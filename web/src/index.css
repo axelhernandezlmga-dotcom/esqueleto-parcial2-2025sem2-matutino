@@ -1,1 +1,12 @@
-/* CSS styles go here. */
+/*
+ * Qué hace este archivo: define estilos mínimos compartidos. En este simulacro
+ * lo dejamos casi vacío para enfocarnos en la lógica.
+ * Qué debe mirar el estudiante: cómo podríamos centralizar estilos si hiciera
+ * falta. Por ahora es una plantilla.
+ * Puntos clave (anchors): no hay pasos porque no aplicamos reglas.
+ */
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
